@@ -1,0 +1,5 @@
+# Sobre / About
+
+``ᴾᵀ`` Este é um repositório online destinado aos meus **estudos pessoais de programação**. Através dele, pretendo **acompanhar e compartilhar** minha evolução no mundo da programação em diversas linguagens e ferramentas que estou estudando. Aqui, planejo incluir resoluções de exercícios, códigos de teste e qualquer outra forma de estudo que esteja desenvolvendo. É importante destacar que farei uso de alguns livros em Português do Brasil, e para uma melhor contextualização com a proposta desses livros usarei algumas variáveis e textos em Português.
+
+``ᴱᴺ`` This is an online repository destined for my **personal studies of programming**. Through it, I aim to **track and share** my progress in the world of programming across various languages and tools that I'm studying. Here, I intend to include exercises resolutions, test codes, and other forms of studying that I am developing. It's important to highlight that I'll be using some books in Brazilian Portuguese, and for a better context with the propose of these books I'll use some variables and texts in Portuguese.
