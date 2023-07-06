@@ -1,5 +1,6 @@
 """ 
-Cópia do Programa 5.1 do livro - Contagem de Cédulas, necessário para a *resolução dos exercícios seguintes*.
+Cópia do Programa 5.1 do livro (página 92 - Capítulo 5) - Contagem de Cédulas
+Necessário para a resolução dos exercícios (5_18.py), (5_19.py) e (5_21.py).
 """
 
 valor = int(input("Digite o valor a pagar: R$ "))

@@ -1,5 +1,5 @@
 """ ENUNCIADO:
-Reescreva o programa5_1.py de forma a continuar executando até que o valor digitado seja 0.
+Reescreva o (programa5_1.py) de forma a continuar executando até que o valor digitado seja 0.
 Utilize repetições aninhadas.
 """
 sz_Title_Total = 50

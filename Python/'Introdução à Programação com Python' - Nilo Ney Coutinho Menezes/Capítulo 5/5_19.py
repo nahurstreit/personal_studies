@@ -1,5 +1,5 @@
 """ ENUNCIADO:
-Modifique o programa para aceitar valores decimais, ou seja, também contar moedas de 0,5, 0,25, 0,10, 0,05 e 0,01.
+Modifique o (programa5_1.py) para aceitar valores decimais, ou seja, também contar moedas de 0,5, 0,25, 0,10, 0,05 e 0,01.
 Esse exercício também compreende o exercício proposto em 5_20: 
     'O que acontece se digitarmos 0,001 no programa? Caso não funcione, altere-o de forma a corrigir o problema.' 
 """

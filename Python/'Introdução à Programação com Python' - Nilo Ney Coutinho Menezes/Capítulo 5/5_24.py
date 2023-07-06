@@ -1,5 +1,5 @@
 """ ENUNCIADO:
-Modifique o programa anterior de forma a ler um número n. Imprima os n primeiros números primos.
+Modifique o programa anterior (5_23.py) de forma a ler um número n. Imprima os n primeiros números primos.
 """
 
 sz_Title_Total = 50

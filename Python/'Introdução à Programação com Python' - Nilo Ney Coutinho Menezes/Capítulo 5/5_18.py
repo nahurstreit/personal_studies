@@ -1,5 +1,5 @@
 """ ENUNCIADO:
-Modifique o Programa 5_1 para também trabalhar com notas de R$ 100,00.
+Modifique o (programa5_1.py) para também trabalhar com notas de R$ 100,00.
 """
 
 sz_Title_Total = 50
