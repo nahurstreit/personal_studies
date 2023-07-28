@@ -1,6 +1,6 @@
 """ 
 Cópia do Programa 7.2 do livro (página 154 - Capítulo 7) - Jogo da forca
-Necessário para a resolução dos exercícios: (7_7.py), (7_8.py) e (7_9.py).
+Necessário para a resolução dos exercícios: (7_7.py), (7_8.py), (7_9.py) e (Capítulo 9/9_15.py).
 """
 
 palavra = input("Digite a palavra secreta: ").lower().strip()

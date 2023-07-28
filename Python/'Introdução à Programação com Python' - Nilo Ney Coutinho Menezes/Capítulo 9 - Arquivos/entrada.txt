@@ -1,0 +1,16 @@
+;Esta linha não deve ser impressa
+>Esta linha deve ser impressa alinhada a direita
+*Esta linha deve ser centralizada
+.Esta linha deve parar a impressão
+=Esta linha devera imprimir varios iguais
+=Esta linha devera imprimir varios iguais
+;Esta linha não deve ser impressa
+>Esta linha deve ser impressa alinhada a direita
+=Esta linha devera imprimir varios iguais
+.Esta linha deve parar a impressão
+>Esta linha deve ser impressa alinhada a direita
+*Esta linha deve ser centralizada
+.Esta linha deve parar a impressão
+=Esta linha devera imprimir varios iguais
+;Esta linha não deve ser impressa
+;Esta linha não deve ser impressa
