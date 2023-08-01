@@ -277,7 +277,7 @@ def menu():
 3 - Apagar
 4 - Listar
 5 - Gravar
-6 - Lêr
+6 - Ler
 7 - Alternar listagem para: {'Ordem Alfabética' if not alfabetica else 'Ordem Salva'}
 
 0 - Sair
