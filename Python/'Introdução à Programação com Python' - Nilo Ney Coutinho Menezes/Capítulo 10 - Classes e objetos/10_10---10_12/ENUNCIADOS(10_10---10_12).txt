@@ -1,0 +1,22 @@
+Os exercícios a seguir, envolvem o uso de classes separadas em arquivos diferentes, e a resolução
+de cada um desses exercícios resulta no aperfeiçoamento do exercício anterior, portanto, para facilitar
+a organização, utilizarei apenas uma pasta com documentos para os exercícios.
+
+ENUNCIADO GERAL:
+Utilizando-se dos arquivos dados (clientes.py) e (conta.py), modifique suas classes e métodos a
+fim de cumprir com os exercícios (10_10), (10_11) e (10_12).
+
+ENUNCIADO 10_10: Modifique as classes 'Conta' e 'ContaEspecial', do arquivo (conta.py) para que a
+operação de saque retorne verdadeiro se o saque foi efetuado e falso, caso contrário.
+
+ENUNCIADO 10_11: Altere a classe 'ContaEspecial', do arquivo (conta.py) de forma que seu extrato exiba 
+o limite e o total disponível para saque.
+
+ENUNCIADO 10_12: Observe o método saque das classes 'Conta' e 'ContaEspecial'. Modifique o método
+'saque' da classe 'Conta' de forma que a verificação da possibilidade de saque seja feita por um
+novo método, substituindo a condição atual. Esse novo método retornará verdadeiro se o saque puder
+ser efetuado, e falso, caso contrário. Modifique a classe 'ContaEspeical' de forma a trabalhar com 
+esse novo método. Verifique se você ainda precisa trocar o método saque de 'ContaEspecial' ou apenas
+o novo método criado para verificar a possibilidade de saque.
+
+>> Exercícios feitos nos próprios arquivos (clientes.py) e (conta.py) + arquivo_banco.py

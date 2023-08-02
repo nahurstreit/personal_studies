@@ -1,0 +1,17 @@
+Os exercícios a seguir, envolvem o uso de classes separadas em arquivos diferentes, e a resolução
+de cada um desses exercícios resulta no aperfeiçoamento do exercício anterior, portanto, para facilitar
+a organização, utilizarei apenas uma pasta com documentos para os exercícios.
+
+ENUNCIADO GERAL:
+Utilizando-se dos arquivos dados (clientes.py) e (conta.py), modifique suas classes e métodos a
+fim de cumprir com os exercícios (10_6), (10_7) e (10_8).
+
+ENUNCIADO 10_6: Altere o programa de forma que a mensagem saldo insuficiente seja exibida caso
+haja tentativa de sacar mais dinheiro que o saldo disponível.
+
+ENUNCIADO 10_7: Modifique o método de resumo da classe Conta para exibir o nome e o telefone de
+cada cliente
+
+ENUNCIADO 10_8: Crie uma nova conta, agora tendo João e José como clientes e saldo igual a 500.
+
+>> Exercícios feitos nos próprios arquivos (clientes.py) e (conta.py) + arquivo_banco.py
